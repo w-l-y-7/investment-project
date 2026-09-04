@@ -1,0 +1,9 @@
+# 提交门禁标记（临时生成，不入库）
+save-gate/
+
+# Python 运行缓存
+__pycache__/
+
+# 国信 skill 脚本运行生成的输出文件
+.claude/skills/gs-fund-compare/output/
+.claude/skills/gs-etf-filter/output/
