@@ -7,3 +7,7 @@ __pycache__/
 # 国信 skill 脚本运行生成的输出文件
 .claude/skills/gs-fund-compare/output/
 .claude/skills/gs-etf-filter/output/
+
+# ===== git-ignore 自动整理 2026-09-20 =====
+## A 脚本产物：notes/download_prices.py 下载生成，需要时重跑脚本可取回
+project-01/inputs/prices/*.csv
